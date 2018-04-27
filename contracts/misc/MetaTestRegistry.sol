@@ -1,4 +1,4 @@
-pragma solidity 0.4.15;
+pragma solidity ^0.4.15;
 
 
 // This contract is only used for testing purposes.
